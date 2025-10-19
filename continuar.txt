@@ -1,0 +1,18 @@
+Aula 9
+Curso de FastAPI - Rest API com Python - Aula 09: Adicionar Item em Pedido e Relationship em Models
+23:39
+VER MELHOR - 26:00 Modo de fazer o relacionamento para calcular
+
+
+Aula 8
+Criar lógica da regra de criar conta
+Apenas usuario admin pode criar conta nova
+
+
+
+
+github - Adicionar
+Colocar nome diferente do projeto - Curso de FAst API com Python
+
+Repositorio:
+https://github.com/DavidMelloMiura/FastApi-Python.git

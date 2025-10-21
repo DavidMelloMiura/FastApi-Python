@@ -36,8 +36,16 @@ class ItemPedidoSchema(BaseModel):
     class Config:
         from_attributes = True
 
-
-
+# Personalizar os dados que vão aparecer
+class ResponsePedidoSchema(BaseModel):
+    id: int
+    status: str
+    preco: float
+    
+    class Config:
+        from_attributes = True
+    
+    
 
 # Pydantic - Força a tipagem de dados
 # class UsuarioSchema - Padrão de informações que quero que seja enviado para o sistema

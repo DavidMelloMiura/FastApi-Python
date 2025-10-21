@@ -1,3 +1,6 @@
+Aula 10 - Ultima
+27:55
+
 Aula 9
 Curso de FastAPI - Rest API com Python - Aula 09: Adicionar Item em Pedido e Relationship em Models
 23:39
@@ -11,7 +14,7 @@ Apenas usuario admin pode criar conta nova
 
 
 
-github - Adicionar
+github - Adicionar OK
 Colocar nome diferente do projeto - Curso de FAst API com Python
 
 Repositorio:
